@@ -1,6 +1,5 @@
-hipster2.txt
-
 # Logs
+log
 logs
 *.log
 npm-debug.log*
