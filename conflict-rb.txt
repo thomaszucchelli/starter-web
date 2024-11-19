@@ -1,10 +1,6 @@
 ligne1
-<<<<<<< HEAD
 ligne2
-ligne2
-=======
 Modif ligne 2 dans master
->>>>>>> 2ae2f9d (Autre modif ligne2)
 ligne3
 Je modif la ligne3 dans master
 Modif ligne2 dans rb-problem
